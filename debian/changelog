@@ -1,0 +1,13 @@
+ros-hydro-rosruby-messages (0.1.2-0quantal) quantal; urgency=high
+
+  * add rosunit for depends
+
+ -- Takashi Ogura <t.ogura@gmail.com>  Fri, 18 Oct 2013 15:00:00 -0000
+
+ros-hydro-rosruby-messages (0.1.1-0quantal) quantal; urgency=high
+
+  * rosruby precompiled messages
+
+ -- Takashi Ogura <t.ogura@gmail.com>  Fri, 18 Oct 2013 15:00:00 -0000
+
+
