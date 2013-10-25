@@ -1,0 +1,20 @@
+ros-hydro-rosruby-messages (0.1.3-0raring) raring; urgency=high
+
+  * remove messages which is contained by other binary packages
+  * Add LICENSE file via addalicense.com
+
+ -- Takashi Ogura <t.ogura@gmail.com>  Thu, 24 Oct 2013 15:00:00 -0000
+
+ros-hydro-rosruby-messages (0.1.2-0raring) raring; urgency=high
+
+  * add rosunit for depends
+
+ -- Takashi Ogura <t.ogura@gmail.com>  Fri, 18 Oct 2013 15:00:00 -0000
+
+ros-hydro-rosruby-messages (0.1.1-0raring) raring; urgency=high
+
+  * rosruby precompiled messages
+
+ -- Takashi Ogura <t.ogura@gmail.com>  Fri, 18 Oct 2013 15:00:00 -0000
+
+
